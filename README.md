@@ -1,5 +1,13 @@
 # fillis
-Small collection of fuzzy string functions.
+Collection of (fuzzy) string search functions implemented in python.
 
-Includes:
+---
+
+### Includes:
 * Levenshtein distance
+
+### Todo:
+* Fuzzy Bitap Algorithm
+* Aho–Corasick Algorithm
+* Rabin–Karp Algorithm
+* Longest Common Subsequence
